@@ -13,6 +13,4 @@ Script to patch ETERNALBLUE vulnerabilities on older versions of windows
 
 # Statistics and research:
 
-<br>
-
-<h4>I have done a recent research with the allowance and permissions of 5 organizations and concluded that almost 1 in 5 machines were running Windows 7 and were all vulnerable to ETERNALBLUE attacks, and i came to conclussion of creating a batch script to combat the vulnerability.</h4>
+<h5>I have done a recent research with the allowance and permissions of 5 organizations and concluded that almost 1 in 5 machines were running Windows 7 and were all vulnerable to ETERNALBLUE attacks, and i came to conclussion of creating a batch script to combat the vulnerability.</h5>
